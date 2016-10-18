@@ -6,6 +6,7 @@ Repository to hold tutorial for Mariko to learn machine learning and git command
 - [Python Environment Setup](#python)
 - [IDE Setup](#ide)
 - [Run](#run-project)
+- [Data Info](#data)
 
 # Setup
 
@@ -99,3 +100,8 @@ sudo ./pycharm.sh
 - to debug, click on the green sun icon
 
 ![Debug](img/debug.png)
+
+# Data
+The data that is used in this prediction model comes from the UCI machine learning dataset website. It is a multi class data set with multiple animal type to classify.
+
+[More info on dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/)
